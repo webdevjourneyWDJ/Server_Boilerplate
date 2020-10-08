@@ -1,7 +1,7 @@
 {
-  "name": "chirp-server",
+  "name": "Server Boilerplate",
   "version": "1.0.0",
-  "description": "Social platform on par with twitter",
+  "description": "Server Boilerplate",
   "scripts": {
     "start": "nodemon bin/run | bunyan -o short"
   },
